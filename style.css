@@ -1,0 +1,659 @@
+button.nine
+{
+    /* background-color: whitesmoke;
+    color: green;
+    border-color: lightgreen;
+    padding-right: 10px;
+   padding-bottom: auto;
+   padding-top: -10px;
+   cursor: pointer;
+   height: 30px;
+   font-size: 0.77em; */
+    
+}
+div.six
+{
+    background-color:   royalblue ;
+    font-size: 1em;
+    height: auto;
+    /* margin-top: 0px;
+    padding: auto; */
+    vertical-align: middle;
+    width: 100%;
+}
+
+
+
+img.four
+{
+    height: 35px;
+    width: 35px;
+    /* padding-top: 12px;
+    padding-right: 17px; */
+    cursor: pointer;
+}
+div.one
+{
+    /* padding-left: 100px;
+    padding-top: 200px;
+    padding-right: 70px;
+    display: inline-block; */
+}
+/* @media only screen and (max-width: 576px)
+{
+
+{
+    width: 400px;
+}
+@media only screen and (max-width: 400px)
+{
+
+{
+    width: 360px;
+} */
+div.Two
+{
+    /* color: white;
+    padding-top:25px;
+    font-size: 16px;
+    padding-left: -50px;
+    display: inline-block; */
+}
+
+div.three
+{
+    /* padding-left:  40px;
+    padding-right: 10px;
+    padding-top: 40px;
+    position: absolute;
+    top: -30px;
+    right: 60px;
+    z-index: +1;
+    display: inline-block; */
+}
+/* img.five
+{
+    height: 60px;
+    width: 200px;
+    padding-left: 100px;
+    padding-top: 5px;
+    padding-right: 100px;
+} */
+div.seven
+{
+height: 70px;
+background-color: whitesmoke ;
+margin-top: -15px;
+vertical-align: middle;
+/* position: absolute;
+top: 20px; */
+padding-left: 320px;
+
+}
+button.eight
+{
+background-color:darkblue;
+border-radius: 20px;
+height: 40px;
+width: 70px;
+color: white;
+cursor: pointer;
+margin-right: 5px;
+margin-left: 70px;
+border-collapse: collapse;
+}
+/* span.Ten
+{
+    position: absolute;
+    top: 60px;
+    z-index: +1;
+    padding-left: 30px;
+
+
+} */
+button.eleven
+{
+background-color: whitesmoke;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 70px;
+cursor: pointer;
+margin-right: 10px;
+border-collapse: collapse;
+
+}
+button.twelve
+{
+background-color: whitesmoke;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 70px;
+cursor: pointer;
+margin-right: 10px;
+width: 130px;
+border-collapse: collapse;
+margin-left: 10px;
+}
+button.thirteen
+{
+background-color: white;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 70px;
+cursor: pointer;
+margin-right: 10px;
+width: 110px;
+border-collapse: collapse;
+}
+button.fourteen
+{
+background-color: whitesmoke;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 70px;
+cursor: pointer;
+margin-right: 10px;
+border-color: white;
+border: 0px solid white;
+}
+button.fifteen
+{
+background-color: whitesmoke;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 70px;
+cursor: pointer;
+margin-right: 5px;
+border-color: white;
+border: 0px solid white;
+}
+button.sixteen
+{
+background-color: white;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 80px;
+cursor: pointer;
+margin-right: 10px;
+border-collapse: collapse;
+}
+button.seventeen
+{
+background-color: whitesmoke;
+color: black;
+border-radius: 20px;
+height: 40px;
+width: 90px;
+cursor: pointer;
+margin-right: 0px;
+border: 0px solid white;
+border-color: white;
+}
+button.eleven:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+button.twelve:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+button.thirteen:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+button.fourteen:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+button.fifteen:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+button.sixteen:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+button.seventeen:hover  
+{
+    background-color: royalblue;
+    color: white;
+}
+
+#apple:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+#apple
+{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 40px;
+    width: 75px;
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-collapse: collapse;
+    padding-left: 7px;
+    border-color: whitesmoke;
+}
+#run
+{
+    background-color: white;
+    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-collapse: collapse;
+    padding-left: 7px;
+    border-color: whitesmoke;
+}
+
+#run:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+
+#Mango
+{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 37px;
+    width: 140px;
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-collapse: collapse;
+    padding-left: 7px;
+    border-color: whitesmoke;
+}
+#Mango:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+
+#Horse
+{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 37px;
+    width: 130px;
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-collapse: collapse;
+    padding-left: 7px;
+    border-color: whitesmoke;
+}
+#Horse:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+#Dog
+{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 37px;
+    width: 96px;
+    color: black;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-collapse: collapse;
+    padding-left: 7px;
+    border-color: whitesmoke;
+}
+#Dog:hover
+{
+    background-color: royalblue;
+    color: white;
+}
+.Naughty
+{
+    background-color: royalblue;
+    color: white;
+    /* text-align: center; */
+    /* margin-left: 80px;
+    margin-right: 80px; */
+    height: 27px;
+    /* padding-top: 3px; */
+    margin-top: 5px;
+}
+
+.Ant
+{
+    text-align: center;
+    padding-top: -15px;
+    
+}
+.haha
+{
+    color: green;
+}
+.Lol
+{
+    /* padding-left: 150px;
+    padding-right: 150px; */
+    color: black;
+    line-height: 18pt;
+}
+
+\
+.Hi
+{
+    
+    text-align: center;
+    /* margin-left: 500px;
+    margin-right: 500px; */
+    height: 150px;
+    width: 320px;
+    padding-top: 25px;
+    margin: 4px;
+  
+}
+/* .salam
+{
+    background-color: blue;
+
+} */
+.Hello
+{
+    background-color:  white;
+    color:darkblue;
+    text-align: center;
+    /* margin-left: 500px;
+    margin-right: 500px; */
+    height: 150px;
+    width: 270px;
+    padding-top: 15px;
+
+}
+/* .chacha
+{
+background-color: thistle;
+} */
+
+.to
+{
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+hr{
+    color: green;
+}
+.lolz
+{
+    /* background-color: whitesmoke; */
+    /* padding-right: 10px; */
+    color: darkblue;
+
+}
+
+.counter-section
+{
+margin: 10% auto;
+color: white;
+}
+.counter
+{
+    font-size: 80px;
+}
+
+.arrow:hover
+{
+background-: white;
+}
+/* .blink
+{
+animation: blink 0.3s;
+}
+@keyframes blink
+ {
+0% {
+    opacity: 1;
+}
+75%
+{
+    opacity: 1;
+}
+76%
+{
+    opacity: 0;
+}
+100%
+{
+    opacity: 0;
+}
+}
+ */
+
+.blinku:hover
+{
+animation: blinku 0.3s;
+pointer: cursor;
+}
+@keyframes blinku
+ {
+0% {
+    opacity: 1;
+}
+75%
+{
+    opacity: 1;
+}
+76%
+{
+    opacity: 0;
+}
+100%
+{
+    opacity: 0;
+}
+}
+
+/* @media only screen and (max-width: 600px)
+{
+body
+{
+    width: 400px;
+}
+@media only screen and (max-width: 400px)
+{
+body
+{
+    width: 200px;
+}
+@media only screen and (max-width: 400px)
+{
+.Lol
+{
+    width: 200px;
+}
+@media only screen and (max-width: 600px)
+{
+.Lol
+{
+    width: 400px;
+}
+@media only screen and (max-width: 400px)
+{
+.six
+{
+    width: 200px;
+}
+@media only screen and (max-width: 600px)
+{
+.six
+{
+    width: 400px;
+}
+
+@media only screen and (max-width: 400px)
+{
+.seven
+{
+    width: 200px;
+}
+@media only screen and (max-width: 600px)
+{
+.seven
+{
+    width: 400px;
+}
+@media only screen and (max-width: 600px)
+{
+.seven
+{
+    width: 400px;
+}
+@media only screen and (max-width: 400px)
+{
+.seven
+{
+    width: 200px;
+}
+@media only screen and (max-width: 600px)
+{
+.acha
+{
+    width: 400px;
+}
+@media only screen and (max-width: 400px)
+{
+.acha
+{
+    width: 200px;
+} */
+
+/* .blinka:hover
+{
+animation: blinka 0.3s;
+pointer:cursor;
+}
+@keyframes blinka
+ {
+0% {
+    opacity: 1;
+}
+75%
+{
+    opacity: 1;
+}
+76%
+{
+    opacity: 0;
+}
+100%
+{
+    opacity: 0;
+} */
+
+.blinka
+{
+animation: blinka 0.3s;
+}
+@keyframes blinka
+ {
+0% {
+    opacity: 1;
+}
+75%
+{
+    opacity: 1;
+}
+76%
+{
+    opacity: 0;
+}
+100%
+{
+    opacity: 0;
+}
+}
+
+/* .Hello:hover
+{
+animation: Hello 0.5s 5;
+}
+@keyframes Hello
+ {
+0% {
+    opacity: 1;
+}
+75%
+{
+    opacity: 1;
+}
+76%
+{
+    opacity: 0;
+}
+100%
+{
+    opacity: 0;
+}
+} */
+
+
+
+  /* @media only screen and (max-width: 600px)
+{
+body,html
+{
+    width: 400px;
+    height: 100%;
+    display: grid;
+}
+
+@media only screen and (max-width: 576px)
+{
+.blinku
+{
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 768px)
+{
+.blinku
+{
+    width: 100%;
+} */
+
+/* @media only screen and (max-width: 576px)
+{
+.lala
+{
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 768px)
+{
+.lala
+{
+    width: 100%;
+    height: 360px;
+} */
